@@ -5,4 +5,6 @@ Trabalho desenvolvido para cimentar os conhecimentos adquiridos nas cadeiras de 
 Se quiser utilizar o programa basta:
 * Executar o ficheiro denominado "main.exe".
 
+Aqui tem um exemplo do programa em execução:
+
 ![](exe.PNG)
